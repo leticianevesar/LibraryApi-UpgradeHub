@@ -1,0 +1,16 @@
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/exception/BookNotFound.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/controller/BookController.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/repository/BookRepository.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/model/User.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/model/Book.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/repository/UserRepository.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/LibraryApplication.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/controller/UserController.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/model/Category.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/repository/CategoryRepository.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/service/BookService.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/service/UserService.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/controller/CategoryController.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/model/BookStatus.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/service/CategoryService.java
+/Users/leticianeves/Desktop/projetos de avaliação/Library-API-UpgradeHub-master/src/main/java/com/example/library/utils/SwaggerConfig.java
